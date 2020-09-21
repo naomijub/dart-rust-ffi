@@ -1,0 +1,8 @@
+name: playground
+description: Testing FFI
+version: 0.0.1
+author: Julia
+environment:
+    sdk: '>=2.0.0 <3.0.0'
+dependencies:
+    ffi: ^0.1.3
